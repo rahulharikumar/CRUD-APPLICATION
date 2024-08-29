@@ -1,0 +1,21 @@
+#main_title {
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.w3-container {
+    float: right;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h6 {
+    text-align: center;
+    color: red;
+}
